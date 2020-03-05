@@ -1,10 +1,10 @@
 package PGLP_3.PGLP3_2;
 
-public class vendeur extends allEmploye{
+public class Vendeur extends AllEmploye{
 	final private int salaire=1500;
 	
 	private int commission;
-	public vendeur(int commission){
+	public Vendeur(int commission){
 	this.commission=commission;
 	}
 
