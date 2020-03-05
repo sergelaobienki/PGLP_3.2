@@ -1,5 +1,5 @@
 package PGLP_3.PGLP3_2;
 
-public class AllEmploye {
-
+public abstract class AllEmploye {
+	 public abstract double salaire();
 }
